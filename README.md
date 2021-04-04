@@ -1,4 +1,4 @@
 # BreastCancerWisconsin
 DiagnosisPrediction
 We will use machine learning to predict diagnosis
-![Alt text](C:\BC.jpg)
+![Alt text]("C:\BC.jpg")
